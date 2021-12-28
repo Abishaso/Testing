@@ -49,7 +49,7 @@ public class CrossBrowser extends BaseClass {
 	
 	@AfterClass
 	private void afterClass() {
-	System.out.println("Done");
+	System.out.println("------------Done--------");
 
 	}
 
